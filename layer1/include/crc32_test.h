@@ -1,0 +1,1 @@
+unsigned int xcrc32 (char *buf, int len);
