@@ -16,4 +16,4 @@ This protector contains two layers of abstraction implementing various anti-debu
 
 The embedded binary is also subject to a base-relocation to make the unpacking process a bit harder. This today is a default for PIE binaries, but at the time it was not trivial to rebase an ET_EXEC ELF binary. 
 Leaving this project here for historic purposes and hopefully to bring some light into ELF Packers/Protectors. 
-SPOILER: coding style is terrible as it was a very old project and CBA to refactor it or whatnot :D
+SPOILER: This project is from 2016! coding style is terrible as it was a very old project, you have been warned :D
